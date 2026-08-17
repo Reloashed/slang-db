@@ -1,0 +1,171 @@
+[
+  {
+    "word": "O(1)",
+    "definition": "Wenn öpis optimiert oder effizient isch",
+    "samples": [
+      "Die Idee isch O(1)"
+    ]
+  },
+  {
+    "word": "Prod",
+    "definition": "IRL",
+    "samples": [
+      "Lass PROD treffe",
+      "seg das nie in PROD"
+    ]
+  },
+  {
+    "word": "Staging",
+    "definition": "Online (Gegeteil vo Prod)",
+    "samples": [
+      "Chunsch nacher Staging?"
+    ]
+  },
+  {
+    "word": "200",
+    "definition": "Generell Okay",
+    "samples": [
+      "'Chunsch nacher au no use?' - '200'",
+      "'Wie gahts?' - '200'"
+    ]
+  },
+  {
+    "word": "402",
+    "definition": "Wennn mer öpis zahle mues",
+    "samples": [
+      "Wart muss no kurz 402 resolve",
+      "Wemmer köste für es Cluster übernimmt: 'Ich übernimm hüt de 402'"
+    ]
+  },
+  {
+    "word": "Cluster",
+    "definition": "Gruppe von Leuten",
+    "samples": [
+      "Wie viel sind in dim Cluster?"
+    ]
+  },
+  {
+    "word": "Localhost",
+    "definition": "Dihei",
+    "samples": [
+      "Chunsch hüt zu mim localhost"
+    ]
+  },
+  {
+    "word": "Brick by Brick",
+    "definition": "Bit by Bit",
+    "samples": [
+      "Built that shit Bit by Bit"
+    ]
+  },
+  {
+    "word": "Deploy",
+    "definition": "Wemmer öpis fr wett mache",
+    "samples": [
+      "Lass die wanderig das wucheend deploye"
+    ]
+  },
+  {
+    "word": "Sudo",
+    "definition": "Vorgesetzter",
+    "samples": [
+      "Sudo isch en fette chiller",
+      "Wart ich frög schnell Sudo"
+    ]
+  },
+  {
+    "word": "Root",
+    "definition": "Eltern",
+    "samples": [
+      "Wart muss Root fröge ob ich dörf"
+    ]
+  },
+  {
+    "word": "Tokens",
+    "definition": "Geld",
+    "samples": [
+      "Wie viel Tokens kostet de Döner",
+      "Wie viel Tokens hesch no"
+    ]
+  },
+  {
+    "word": "Cache",
+    "definition": "Wenn mer sich öpis merke muess",
+    "samples": [
+      "'Hüt abig isch denn no Hangout gell?' - 'Ja, han scho im Cache'"
+    ]
+  },
+  {
+    "word": "Grep",
+    "definition": "Wemmer öpis hole sött",
+    "samples": [
+      "Grep mer schnell mini Kopfhörer",
+      "Grep mer öpis usem Migi"
+    ]
+  },
+  {
+    "word": "Open Source",
+    "definition": "Öffentlich",
+    "samples": [
+      "Das Fest isch Open Source",
+      "Albani isch Open Source"
+    ]
+  },
+  {
+    "word": "Drop de Table",
+    "definition": "Vergiss das wieder",
+    "samples": [
+      "Ah nvm Drop de Table wieder"
+    ]
+  },
+  {
+    "word": "Lahn das uf Dev",
+    "definition": "Mach das nie meh",
+    "samples": [
+      "Nei Lahn das uf Dev bro"
+    ]
+  },
+  {
+    "word": "De PR chunt nöd dure",
+    "definition": "Wenn öpis mega schlecht isch",
+    "samples": [
+      "'Lass das doch so mache' - 'De PR chunt nöd dure'"
+    ]
+  },
+  {
+    "word": "Backlog",
+    "definition": "Wemmer öpis spöter wett mache",
+    "samples": [
+      "Ich han zimmer ufrume is Backlog due"
+    ]
+  },
+  {
+    "word": "Spoofing",
+    "definition": "Lüge",
+    "samples": [
+      "Hör uf spoofe",
+      "Du spoofsch huere viel"
+    ]
+  },
+  {
+    "word": "disable Logging",
+    "definition": "Hör uf rede",
+    "samples": [
+      "Lowk disable Logging, de PR chunt nöd dure"
+    ]
+  },
+  {
+    "word": "edge case",
+    "definition": "Nische",
+    "samples": [
+      "De artist isch en edge case"
+    ]
+  },
+  {
+    "word": "Sonarqube approved",
+    "definition": "Krass",
+    "samples": [
+      "Holy das isch Sonarqube approved"
+    ]
+  }
+]
