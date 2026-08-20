@@ -167,5 +167,56 @@
     "samples": [
       "Holy das isch Sonarqube approved"
     ]
+  },
+  {
+    "word": "Legacy",
+    "definition": "veraltet",
+    "samples": [
+      "Haustelefon sind Legacy"
+    ]
+  },
+  {
+    "word": "Branch",
+    "definition": "Stuck / Stückli",
+    "samples": [
+      "Hesch mer en Branch vom Brot",
+      "Schnid mer en Branch kueche ab"
+    ]
+  },
+  {
+    "word": "Bandwith",
+    "definition": "Kapazität",
+    "samples": [
+      "'Chasch mer grad no das mache?' - 'Sorry Bandwith isch grad voll'",
+      "'Chasch mer de Sack churz hebe?' - 'Nah Bandwith isch volle'"
+    ]
+  },
+  {
+    "word": "Debug",
+    "definition": "analysiere",
+    "samples": [
+      "'Mini kette isch usegheit bim Velo' - 'Oke lass mal debugge'"
+    ]
+  },
+  {
+    "word": "Instance",
+    "definition": "Person",
+    "samples": [
+      "Weli Instance het das gmacht?"
+    ]
+  },
+  {
+    "word": "Buffering",
+    "definition": "überlege",
+    "samples": [
+      "Wart churz bin am Buffere"
+    ]
+  },
+  {
+    "word": "Sonarqube approved",
+    "definition": "Krass",
+    "samples": [
+      "Holy das isch Sonarqube approved"
+    ]
   }
 ]
